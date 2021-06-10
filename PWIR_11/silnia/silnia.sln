@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "silnia", "silnia\", "{A5949345-D7E5-40C6-9E9C-C218367AE49E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52921"
+		Debug.AspNetCompiler.PhysicalPath = "silnia\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52921\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52921"
+		Release.AspNetCompiler.PhysicalPath = "silnia\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52921\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52921"
+		SlnRelativePath = "silnia\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5949345-D7E5-40C6-9E9C-C218367AE49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5949345-D7E5-40C6-9E9C-C218367AE49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF6B93D2-D246-4E6F-8F3B-E14A3DACD687}
+	EndGlobalSection
+EndGlobal
